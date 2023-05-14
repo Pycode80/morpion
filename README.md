@@ -37,9 +37,11 @@ python tic_tac_toe.py
         python tic_tac_toe.py
         ```
 
+*Ma version de Python est 3.11.3*
+
 ## Compilation
 
-Commande pour compiler le projet avec pyinstaller==5.11.0
+Commande pour compiler le projet avec `pyinstaller==5.11.0`
 
 `pyinstaller --onefile --hidden-import=random --hidden-import=os --hidden-import=rich.console --hidden-import=rich.table --hidden-import=rich.prompt tic_tac_toe.py`
 
