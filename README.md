@@ -47,6 +47,11 @@ Commande pour compiler le projet avec pyinstaller==5.11.0
 
 Rendez-vous dans la section release : https://github.com/Pycode80/morpion/releases
 
+## Images de production 
+
+![Image1](images/image1.png)
+![Image2](images/image2.png)
+
 
 
 
