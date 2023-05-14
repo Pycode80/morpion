@@ -1,6 +1,6 @@
 # Le jeu du Morpion
 ## Brève présentation 
-Ce morpion est codé en Python. Il intégre une fonctionalité de pseudo "intelligence artificel". 
+Ce morpion est codé en Python. Il intègre une fonctionalité de pseudo "intelligence artificelle". 
 En effet, vous pouvez jouer en solo (contre la fameuse IA) ou en duo.
 L'IA va d'abord voir si elle peut gagner, puis essayer de vous contrer, ensuite essayer de jouer
 de manière intelligente puis si cela n'est pas possible, elle va faire un coup au hasard.
@@ -10,13 +10,13 @@ de manière intelligente puis si cela n'est pas possible, elle va faire un coup 
 1. Présence d'une IA
 2. J'utilise le module Rich afin de mettre le jeu en graphique mais dans la console
 
-## Fonctionalités à venir 
+## Fonctionnalités à venir 
 
 - [ ] Une implémentation pour Linux/MacOS car j'efface la console avec la commande cls. <br>
 - [ ] Des répliques sympa quand l'IA ou le joueur Gagne.<br>
-- [ ] Eventuellement une petite musique de fond.<br>
-- [ ] Améliorer l'algorithme de l'IA afin de la rendre plus difficile à battre<br>
-- [ ] Créer une animation quand l'IA réflechit encore plus sympa<br>
+- [ ] Éventuellement une petite musique de fond.<br>
+- [ ] Améliorer l'algorithme de l'IA pour la rendre plus difficile à battre<br>
+- [ ] Créer une animation encore plus sympa quand l'IA "réfléchit"<br>
 
 ## Installation
 
@@ -29,9 +29,9 @@ python tic_tac_toe.py
 ```
 
 2. A la dure:
-    - Télécharger le repo https://github.com/Pycode80/morpion/archive/refs/heads/master.zip et décompresser le.
-    - rendez vous dans le dossier décompréssé
-    - Executer ces commandes :
+    - Téléchargez le repo https://github.com/Pycode80/morpion/archive/refs/heads/master.zip et décompresser le.
+    - Rendez vous dans le dossier décompréssé
+    - Exécutez ces commandes :
         ```
         pip install -r requirements.txt
         python tic_tac_toe.py
