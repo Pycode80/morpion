@@ -20,23 +20,27 @@ de manière intelligente puis si cela n'est pas possible, elle va faire un coup 
 
 ## Installation
 
-1. Avec git :
+1. Avec git :<br>
+```
 git clone https://github.com/Pycode80/morpion.git
 cd morpion
 pip install -r requirements.txt
 python tic_tac_toe.py
+```
 
 2. A la dure:
 Télécharger le repo et décomprésser le
 puis rendez vous dans le dossier décompréssé
+```
 pip install -r requirements.txt
 python tic_tac_toe.py
+```
 
 ## Compilation
 
 Commande pour compiler le projet avec pyinstaller==5.11.0
 
-pyinstaller --onefile --hidden-import=random --hidden-import=os --hidden-import=rich.console --hidden-import=rich.table --hidden-import=rich.prompt tic_tac_toe.py
+<< pyinstaller --onefile --hidden-import=random --hidden-import=os --hidden-import=rich.console --hidden-import=rich.table --hidden-import=rich.prompt tic_tac_toe.py >>
 
 ## Release
 
