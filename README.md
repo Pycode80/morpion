@@ -43,7 +43,7 @@ Commande pour compiler le projet avec pyinstaller==5.11.0
 
 `pyinstaller --onefile --hidden-import=random --hidden-import=os --hidden-import=rich.console --hidden-import=rich.table --hidden-import=rich.prompt tic_tac_toe.py`
 
-*Il est également possible d'effectuer la commande suivante : `pyinstaller tic_tac_toe.spec`
+*Il est également possible d'effectuer la commande suivante : `pyinstaller tic_tac_toe.spec`*
 
 ## Release
 
