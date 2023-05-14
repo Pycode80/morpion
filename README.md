@@ -29,13 +29,13 @@ python tic_tac_toe.py
 ```
 
 2. A la dure:
-    1. Télécharger le repo https://github.com/Pycode80/morpion/archive/refs/heads/master.zip et décompresser le.
-    2. rendez vous dans le dossier décompréssé
-    3. Executer ces commandes :
-    ```
-    pip install -r requirements.txt
-    python tic_tac_toe.py
-    ```
+     Télécharger le repo https://github.com/Pycode80/morpion/archive/refs/heads/master.zip et décompresser le.
+     rendez vous dans le dossier décompréssé
+    Executer ces commandes :
+        ```
+        pip install -r requirements.txt
+        python tic_tac_toe.py
+        ```
 
 ## Compilation
 
