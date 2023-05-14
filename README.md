@@ -12,11 +12,11 @@ de manière intelligente puis si cela n'est pas possible, elle va faire un coup 
 
 ## Fonctionalités à venir 
 
-[] Une implémentation pour Linux/MacOS car j'efface la console avec la commande cls. <br>
-[ ] Des répliques sympa quand l'IA ou le joueur Gagne.<br>
-[ ] Eventuellement une petite musique de fond.<br>
-[ ] Améliorer l'algorithme de l'IA afin de la rendre plus difficile à battre<br>
-[ ] Créer une animation quand l'IA réflechit encore plus sympa<br>
+- [ ] Une implémentation pour Linux/MacOS car j'efface la console avec la commande cls. <br>
+- [ ] Des répliques sympa quand l'IA ou le joueur Gagne.<br>
+- [ ] Eventuellement une petite musique de fond.<br>
+- [ ] Améliorer l'algorithme de l'IA afin de la rendre plus difficile à battre<br>
+- [ ] Créer une animation quand l'IA réflechit encore plus sympa<br>
 
 ## Installation
 
@@ -29,12 +29,13 @@ python tic_tac_toe.py
 ```
 
 2. A la dure:
-Télécharger le repo et décomprésser le
-puis rendez vous dans le dossier décompréssé
-```
-pip install -r requirements.txt
-python tic_tac_toe.py
-```
+    1. Télécharger le repo https://github.com/Pycode80/morpion/archive/refs/heads/master.zip et décompresser le.
+    2. rendez vous dans le dossier décompréssé
+    3. Executer ces commandes :
+    ```
+    pip install -r requirements.txt
+    python tic_tac_toe.py
+    ```
 
 ## Compilation
 
