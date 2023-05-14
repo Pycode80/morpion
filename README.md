@@ -13,6 +13,7 @@ de manière intelligente puis si cela n'est pas possible, elle va faire un coup 
 ## Fonctionalités à venir 
 
 [ ] Une implémentation pour Linux/MacOS car j'efface la console avec la commande cls
+[ ]
 [ ] Des répliques sympa quand l'IA ou le joueur Gagne.
 [ ] Eventuellement une petite musique de fond.
 [ ] Améliorer l'algorithme de l'IA afin de la rendre plus difficile à battre
