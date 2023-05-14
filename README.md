@@ -12,7 +12,7 @@ de manière intelligente puis si cela n'est pas possible, elle va faire un coup 
 
 ## Fonctionalités à venir 
 
-[ ] Une implémentation pour Linux/MacOS car j'efface la console avec la commande cls. <br>
+[] Une implémentation pour Linux/MacOS car j'efface la console avec la commande cls. <br>
 [ ] Des répliques sympa quand l'IA ou le joueur Gagne.<br>
 [ ] Eventuellement une petite musique de fond.<br>
 [ ] Améliorer l'algorithme de l'IA afin de la rendre plus difficile à battre<br>
@@ -40,7 +40,7 @@ python tic_tac_toe.py
 
 Commande pour compiler le projet avec pyinstaller==5.11.0
 
-"pyinstaller --onefile --hidden-import=random --hidden-import=os --hidden-import=rich.console --hidden-import=rich.table --hidden-import=rich.prompt tic_tac_toe.py"
+`pyinstaller --onefile --hidden-import=random --hidden-import=os --hidden-import=rich.console --hidden-import=rich.table --hidden-import=rich.prompt tic_tac_toe.py`
 
 ## Release
 
