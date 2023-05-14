@@ -43,6 +43,8 @@ Commande pour compiler le projet avec pyinstaller==5.11.0
 
 `pyinstaller --onefile --hidden-import=random --hidden-import=os --hidden-import=rich.console --hidden-import=rich.table --hidden-import=rich.prompt tic_tac_toe.py`
 
+<!--foiezt --> 
+
 ## Release
 
 Rendez-vous dans la section release : https://github.com/Pycode80/morpion/releases
